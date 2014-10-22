@@ -247,14 +247,16 @@ footer p
   overflow: auto;
 }
 
-/***** BxSlider *****/
-.bxslider li img {
-    text-align: center;
+/***** jQuery Cycle Plugin Home Slideshow *****/
+#slideshow-homepage {
+  width: 100%;
+  height: auto;
+  margin-bottom: 25%;
 }
 
-.bxslider li img {
-    max-width: 771px;
-    display: block;
+#slideshow-homepage img {
+  width: 100%;
+  height: auto;
 }
 
 
